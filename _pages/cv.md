@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (Hons.) in Biophysics, University of British Columbia, 2022
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2020 - Dec 2020: Research Assistant
+  * University of Saskatchewan
+  * Supervisor: Professor Reza Fotouhi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2021 - May 2021: Research Assistant
+  * University of Toronto
+  * Supervisor: Professor R. J. Dwayne Miller
+ 
+* Sep 2021 - May 2022: Thesis Student
+  * University of British Columbia, BC Cancer Research Insitute
+  * Supervisors: Dr. Carlos Uribe, Dr. Julia Brosch-Lenz, Professor Arman Rahmim
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+* Python
+  * Data analysis and visualization
+  * Modelling
+  * Machine learning
+* Bash
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+[Obaid, M., Zhang, Q., Adams, S.J. et al. Development and assessment of a telesonography system for
+ musculoskeletal imaging. Eur Radiol Exp 5, 29 (2021).](https://doi.org/10.1186/s41747-021-00227-z)
+
+**Conference Proceedings**
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[Obaid M, Rahmim A, Segars WP, Brosch-Lenz J, Uribe C. Computing *S*-values for bone marrow dose estimation in rodents. SNMMI Annual Meeting, Chicago, USA, 2023.](https://posterdev.econference.io/app/snmmi/oZQNYYR/poster/45421)
+
+Obaid M, Zhang Q, Adams SJ, Fotouhi R, Obaid H. Development and assessment of a telesonography
+system for musculoskeletal imaging. Proc. RSNA Annual Meeting, 2021.
+
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
